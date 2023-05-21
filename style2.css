@@ -1,0 +1,13 @@
+#output {
+    background-color:antiquewhite;
+    border-radius:10px;
+    border-top: 10px solid #4287f5;
+    padding: 10px;
+    float: none;
+    transform: translate(325px,5px);
+    text-align:left;
+    width:50%;
+}
+body {
+    text-align:center;
+}
